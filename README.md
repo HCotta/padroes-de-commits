@@ -2,7 +2,7 @@
 📄<br>Padrões de commits 
 </h1>
 
-<h1 align="center" >
+<h1 align="center">
   <img src="gitcommit.png">
 </h1>
 
